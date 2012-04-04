@@ -1,15 +1,15 @@
 10
 
 dir
-0
+2
 svn://192.168.1.20/home/svn/repositories/testgit
 svn://192.168.1.20/home/svn/repositories/testgit
 
 
 
-2012-04-04T08:15:57.604611Z
-0
-
+2012-04-04T09:13:09.047806Z
+2
+testgit
 
 
 
@@ -26,9 +26,46 @@ svn://192.168.1.20/home/svn/repositories/testgit
 
 5dccb0b2-b8ef-4af8-b7d3-a0a9f4f4c2b8
 
+TEST2.txt
+file
+3
+
+
+
+2012-04-04T09:17:22.503600Z
+11b6bbc813e015e85fc0c03db9b5becd
+2012-04-04T09:15:05.432638Z
+3
+testgit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+.git
+dir
+
 test.txt
 file
-1
+
 
 
 
